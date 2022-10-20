@@ -1,0 +1,192 @@
+/*  Theme Name:MY SITE
+    Author:Ancy A
+    Date:
+
+*/
+
+/* start section1*/
+        .bg-img{
+            background-image: url("../img/6.jpg");
+            background-position: center;
+            background-size: cover;
+    
+        }
+        .bg-col{
+            background: white;  
+            
+        }
+		.bg-back{
+			background-color: rgba(0,0,0,0.5);
+		}
+
+		.style-cls p{
+			font-size: 60px;
+		}
+		.subcol{
+			background-color: white;    
+			width:90%;
+			height: 250px;
+		}
+
+/* ends section1*/
+
+/* starts section2 */
+		.p-style{
+			font-size:50px;
+		}
+		.p-style1{
+			font-size:20px;
+		}
+		.col-class{
+			margin-left:-60px;
+				
+			
+		}
+		
+
+/* ends section2 */
+/* starts section4*/
+		.p-style2{
+			font-size:35px;
+		}
+		
+		
+		.img-style {
+			margin-left:-150px;
+		}
+		.text-style{
+			margin-left:150px;
+		}
+	
+/* ends section4 */
+/* starts footer */
+
+		footer{
+			background-color:rgba(0,0,0,0.03);
+		}
+		.div-style{
+			border-bottom:1px solid rgba(0,0,0,0.04);
+		}
+		.foot ul li{
+			list-style-type:none;
+		}
+		.ul-style ul li{
+			list-style-type:none;
+			
+		}
+		.ul-style{
+			background-color:rgba(0,0,0,0.04);
+			#padding:10px;
+			
+		}
+		.select-style{
+			margin-top:-30px;
+			
+		}
+/* ends footer */
+
+
+/* media section */
+	
+		@media(max-width:768px){
+			.style-cls p{
+				font-size:30px;
+			}
+			.img-stl{
+				width:10%;
+				margin-top:10px;
+			}
+			
+			.main-col1{
+				margin-left:30px;
+				margin:50px;
+			}
+			.subcol h3{
+				font-size:20px;
+			}
+			.subcol p{
+				font-size:14px;
+			}
+			.col-st{
+				#margin:10px;
+				height:170px;
+				width:70%;
+				margin-left:50px;
+			}
+			.col-st1{
+				#margin:10px;
+				height:220px;
+				width:100%;
+				margin-left:1px;
+				margin-top:-40px;
+			}
+			.img-class img{
+				width:50%;
+				margin-top:20px;
+				
+			}
+			.img-class{
+				text-align:center;
+			}
+			.p-style{
+				font-size:30px;
+				margin-left:
+				
+			}
+			.p-style1{
+				font-size:14px;
+				margin-top:-10px;
+			}
+			.col-class{
+				text-align:center;
+				margin-left:10px;
+				margin-top:10px;
+			}
+			.class-img img{
+				margin-top:20px;
+			}
+			.p-style2{
+				font-size:25px;
+			}
+			.img-style img{
+				margin-left:150px;
+				
+			}
+			.p1-style{
+				font-size:12px;
+			}
+			.text-style{
+				margin-left:0px;
+				text-align:center;
+			}
+			.image-stl{
+				margin-top:50px;
+			}
+			.image1 img{
+				margin-top:50px;
+				width:70%;
+			}
+			.text{
+				margin-top:10px;
+			}
+			.styles{
+				margin-top:30px;
+			}
+			.foot-cls{
+				margin-top:50px;
+			}
+			.foot{
+				margin-top:20px;
+				margin-left:50px;
+			}
+			.ul-style ul li a{
+				font-size:12px;
+				
+			}
+			.selct{
+				font-size:11px;
+				margin-top:-100px;
+			}
+
+		}
+
